@@ -10,7 +10,7 @@
 
  # DURATION : JULY 5th 2025 to AUGUST 5th, 2025.
 
-# MENTOR : NEELA SANTOSH KUMAR\
+# MENTOR : NEELA SANTOSH KUMAR
 
 # Multithreaded Chat Application – Project Overview
 
